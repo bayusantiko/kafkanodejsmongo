@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "kafka-node": "^5.0.0",
-    "mongoose": "^5.9.15"
+    "mongoose": "^5.13.15"
   }
 }
